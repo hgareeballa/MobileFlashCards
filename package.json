@@ -21,8 +21,8 @@
   "dependencies": {
     "expo": "^33.0.7",
     "react": "^16.8.6",
-    "react-native": "^0.60.0",
-    "react-navigation": "^3.11.0",
+    "react-native": "^0.60.3",
+    "react-navigation": "^3.11.1",
     "redux-thunk": "^2.3.0"
   }
 }
